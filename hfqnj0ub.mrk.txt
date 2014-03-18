@@ -1,0 +1,60 @@
+﻿commited
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    1omr3vwy.wyb.txt
+#	deleted:    5zk0ob10.0aj.txt
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/00000001.url
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Fmtio32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5dlg32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5icon32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5krnl32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5menu32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5rtf32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/H5tool32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Hedlg32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Heicon32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Hekrnl32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Hemenu32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Hertf32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Hetool32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Htkrnl32.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/INSTALL.LOG
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im30bmp.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im30pcx.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im30tga.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im30tif.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im31bmp.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im31pcx.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im31tga.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Im31tif.dil
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Imgman30.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Imgman31.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Msvcrt.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Msvcrt20.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Msvcrt40.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/REFENG30.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/UNWISE.EXE
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/UserDict.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Wsetup32.EXE
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Wt61en.mor
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Wtcc61en.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/Wtsp61ms.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spth.bok
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spth32.exe
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthpic.ndx
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthpic.pic
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthrs30.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthst30.cnt
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthst30.hlp
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthus30.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthuser.fdb
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthvw.dll
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthwt30.cnt
+#	new file:   Stedman_Latest/Stedman_Pathology_and_Lab_Medicine/SPTH10/spthwt30.hlp
+#	deleted:    cpovzqjb.s4x.txt
+#
+
